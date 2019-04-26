@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cobia.tk",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -116,7 +116,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>YOU WILL NEED:</b></p><p><b>1. AZURE ACCOUNT: </b></p><p><b>2. DOMAIN NAME: </b>If you don't have a domain name available, you can get one free at Freenom.</p><p>First Steps</p><p>1. Log-on to portal.azure.com</p><p>2. Create a \"resource group\"&nbsp;</p><p>Creating the Virtual Machine&nbsp;</p><p>1.&nbsp;</p><p>2.&nbsp;</p><p>3.&nbsp;</p><p>4. While waiting for the VM to deploy, take this time to set up the IP configuration</p><p>Setting up the IP configuration&nbsp;</p><p>1.</p><p>2.</p><p>3.</p><p>4.</p><p><br></p><p><br></p><p>You are finished with this lab.&nbsp;</p><p>NEXT STEP: Create a rule to save money.&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>YOU WILL NEED:</b></p><p><b>1. AZURE ACCOUNT: </b></p><p><b>2. DOMAIN NAME: </b>If you don't have a domain name available, you can get one free at Freenom.</p><p>First Steps</p><p>1. Log-on to portal.azure.com</p><p>2. Create a resource group; call it adtestlab</p><p><br></p><p>Ceating the Virtual Machine&nbsp;</p><p>1.&nbsp;</p><p>2.&nbsp;</p><p>3.&nbsp;</p><p>4. While waiting for the VM to deploy, take this time to set up the IP configuration</p><p>Setting up the IP configuration&nbsp;</p><p>1.</p><p>2.</p><p>3.</p><p>4.</p><p><br></p><p><br></p><p>You are finished with this lab.&nbsp;</p><p>NEXT STEP: Create a rule to save money.&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "roJL8s371Y",
           "_anchor": "content1-9",
           "_protectedParams": [],
